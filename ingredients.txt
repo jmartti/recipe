@@ -2,8 +2,4 @@
 * bananas
 * 1/2 onion
 * carlig
-<<<<<<< HEAD
-* 2 tsp salt
-=======
 * 1 tsp salt
->>>>>>> experiment
